@@ -253,3 +253,7 @@ http://cp.dmbshare.net:8000/live/whelan/whelan/1828.ts
 http://cp.dmbshare.net:8000/live/whelan/whelan/1733.ts
 #EXTINF:-1,ALB: Vision
 http://cp.dmbshare.net:8000/live/whelan/whelan/1737.ts
+#EXTINF:-1,Big Brother 1 Alb
+rtmp://$OPT:rtmp-raw=rtmp://live.intcast.net:1935/live/ playpath=secbigbrother1 swfUrl=http://shikotvlive.com/channels/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://shikotvlive.com/channels/function/action.php?channel=bigbrother
+#EXTINF:-1,Big Brother 2Alb
+rtmp://$OPT:rtmp-raw=rtmp://live.intcast.net:1935/live/ playpath=secbigbrother2 swfUrl=http://shikotvlive.com/channels/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://shikotvlive.com/channels/function/action.php?channel=bigbrother2
